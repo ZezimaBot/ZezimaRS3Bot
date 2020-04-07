@@ -72,7 +72,7 @@ int main()
     while(1)
     {
         //Loop Delay (1,000 microsecond = 1 millisecond)
-        usleep(100000); //qRand(4000000, 8000000)
+        usleep(100000);
 
         //Inputs / Keypress
         if(key_is_pressed(XK_Control_L) && key_is_pressed(XK_Alt_L))
