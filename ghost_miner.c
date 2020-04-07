@@ -29,7 +29,7 @@ uint qRand(const uint min, const uint max)
     const int rv = rand();
     if(rv == 0)
         return min;
-    return ( ((float)rv / RAND_MAX) * (max-min) ) + min; //(rand()%(max-min))+min;
+    return ( ((float)rv / RAND_MAX) * (max-min) ) + min;
 }
 
 int key_is_pressed(KeySym ks)
@@ -47,22 +47,6 @@ void speakS(const char* text)
 {
     char s[256];
     sprintf(s, "/usr/bin/espeak \"%s\"", text);
-    if(system(s) <= 0)
-        sleep(1);
-}
-
-void speakI(const int i)
-{
-    char s[256];
-    sprintf(s, "/usr/bin/espeak %i", i);
-    if(system(s) <= 0)
-        sleep(1);
-}
-
-void speakF(const double f)
-{
-    char s[256];
-    sprintf(s, "/usr/bin/espeak %.1f", f);
     if(system(s) <= 0)
         sleep(1);
 }
