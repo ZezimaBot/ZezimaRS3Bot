@@ -20,6 +20,8 @@ RS3 is nothing more than a well-tuned fruit machine targeted at adolescents.
 
 Work with me to destroy the Runescape economy and shine a revealing light upon how Jagex single-handedly demoralise their integrity. It is them whom appointed the mods which carry out these questionable activities thinking that witness statements in the future will not be corroborated due to lack of tangible evidence.
 
-This was merely and under sight on their behalf as the company they have worked so hard to build over the years will now be heald question to as a matter of fraud they must have been privy to if not at least facilitated taking place on their servers operating with very little respect to data protection laws in that current age.
+This was merely and under-sight on their behalf as the company they have worked so hard to build over the years will now be held question to as a matter of fraud to which they must have been privy to if not at least allowed the facilitation to take place within their company by operating with very little respect to data protection laws of that current age.
 
 Death to Fagex.
+
+*Those that they've wronged grow older and more powerful with time, the kids they once deemed powerless are now the adults whom will slay the wicked old men*
