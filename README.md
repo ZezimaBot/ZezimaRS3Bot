@@ -9,7 +9,7 @@ I was a lonely and very depressed teenager at the time who's only respite was do
 
 There were no intrusions into my computer and no other accounts affected, just my Runescape account merely hours after a Jagex mod accused me of botting.
 
-Fagex, in my opinion, are utter scum. They have for years been abusing their customer-base which is primarily made of young children and teens, I at the time was in my early teens. However still particularly proficient in computer programming.
+Fagex, in my opinion, are utter scum. They have for years been abusing their customer-base which is primarily made of young children and teens, I at the time was in my early teens.
 
 Jagex mods have been stealing items from the game accounts of children for years, particularly in the early years, as such, they will be held accountable in coming times - they will eventually be brought to justice, and the cases of such as Mod Jed in 2018 are just the tip of the iceberg.
 
