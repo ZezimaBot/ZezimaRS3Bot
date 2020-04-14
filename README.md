@@ -3,7 +3,7 @@ By Peter Zezima
 
 In 2002-2003 I was a paying member of Runescape, one day from what I can recall it was either Mod Ronan or Mod Mark accused me of botting, I was admittedly using an auto click wich simply fired the left mouse click button repeatedly every second - however no complex fully automated bots or scripts.
 
-I was a lonely and very depressed teenager at the time who's only respite was doing silly things on Runescape, by no means was I a wealthy Runescape player with only 200,000 GP and level stats of 56 max and lower, full rune because other players where kind to me and the GP generated though my obsession of fletching which I was level 54 and woodcutting 58. Excited to start fletching yew bows where the real Runescape GP was at.
+I was a lonely and very depressed teenager at the time who's only respite was doing silly things on Runescape, by no means was I a wealthy Runescape player with only 200,000 GP and level stats of 56 max and lower, full rune because other players where kind to me and the GP generated though my obsession of fletching which I was level 54 and woodcutting 58. Excited to start fletching yew bows were the real Runescape GP was at.
 
 48 hours after the Jagex mod accusing me of botting I log into my account to find all of the contents to that account having been taken from my bank, all my runes, amour and countless hours of work stolen and my player character left dumped in an unusual place.
 
