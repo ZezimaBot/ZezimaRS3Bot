@@ -13,7 +13,7 @@ Fagex, in my opinion, are utter scum. They have for years been abusing their cus
 
 Jagex mods have been stealing items from the game accounts of children for years, particularly in the early years, as such, they will be held accountable in coming times - they will eventually be brought to justice, and the cases of such as Mod Jed in 2018 are just the tip of the iceberg.
 
-The cracks in the seems are forming;
+The cracks in the seams are forming;
 https://assets.publishing.service.gov.uk/media/5ddd126d40f0b650b397d737/Jagex_Ltd_v_Mr_John_McCambridge_UKEAT_0041_19_LA.pdf
 
 RS3 is nothing more than a well-tuned fruit machine targeted at adolescents.
