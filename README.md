@@ -24,4 +24,4 @@ This was merely and under-sight on their behalf as the company they have worked 
 
 Death to Fagex.
 
-*Those that they've wronged grow older and more powerful with time, the kids they once deemed powerless are now the adults whom will slay the wicked old men that they chose to become.*
+*Those that they've wronged grow older and more powerful with time, the kids they once deemed powerless are now the adults whom will slay the wicked old men.*
