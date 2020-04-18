@@ -25,3 +25,5 @@ This was merely and under-sight on their behalf as the company they have worked 
 Death to Fagex.
 
 *Those that they've wronged grow older and more powerful with time, the kids they once deemed powerless are now the adults whom will slay the wicked old men.*
+
+## You know what. On second thought. I am being over dramatic. Jagex are not so bad these days - they give out millions of gp to players daily for free. Take what I say with a pinch of salt, some emotional rinsing of past times.
